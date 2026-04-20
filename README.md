@@ -1,13 +1,10 @@
-# whatsapp-mood-analyzer
-A Whatsapp chat mood analyzer made as part of the AI Project.
-
 # 📊 WhatsApp Mood Analyzer
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Colab](https://img.shields.io/badge/Google-Colab-orange.svg)](https://colab.research.google.com/)
 
-> **An AI-powered NLP system that automatically analyzes WhatsApp chat exports to detect emotional patterns and sentiment trends using Machine Learning.**
+ **An AI-powered NLP system that automatically analyzes WhatsApp chat exports to detect emotional patterns and sentiment trends using Machine Learning.**
 
 ## 🎓 Project Information
 
