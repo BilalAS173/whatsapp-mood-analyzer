@@ -22,7 +22,7 @@
 
 - ✅ **Dual-Model Analysis** - Combines VADER (rule-based) + Naive Bayes (ML) for accurate sentiment detection
 - ✅ **Real WhatsApp Data** - Works with actual exported .txt files from WhatsApp
-- ✅ **Interactive Visualizations** - 5+ charts showing mood timelines, per-person breakdowns, word clouds
+- ✅ **Interactive Visualizations** - 4+ charts showing mood timelines, per-person breakdowns, word clouds
 - ✅ **High Accuracy** - 84% accuracy on test data
 - ✅ **Privacy Focused** - All processing done locally, no data uploaded to cloud
 
