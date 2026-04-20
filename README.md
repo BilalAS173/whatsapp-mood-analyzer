@@ -10,7 +10,6 @@
 
 **Course:** Artificial Intelligence  
 **Instructor:** Sir Atif Luqman  
-**Submission Date:** 13th March 2026  
 
 **Developed by:**
 - Bilal Ahmed Shariff (24K-0701)
