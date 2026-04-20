@@ -14,7 +14,7 @@
 **Developed by:**
 - Bilal Ahmed Shariff (24K-0701)
 - Muhammad Umer Farooq (24K-0514)
-- Fawad Noukhai (24K-0750)
+- Fawad Noukhaiz (24K-0750)
 
 ---
 
