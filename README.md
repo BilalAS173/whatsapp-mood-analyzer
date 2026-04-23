@@ -31,10 +31,12 @@
 The IMDB dataset used for training is not included in this repo due to file size.
 Download it from Kaggle:
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 Place the downloaded CSV in the same directory before running the notebook.
+
 ---
 
-## 📊 What It Does
+## 📊 Project overview
 
 | Feature | Description |
 |---------|-------------|
