@@ -12,9 +12,9 @@
 **Instructor:** Sir Atif Luqman  
 
 **Developed by:**
-- Bilal Ahmed Shariff (24K-0701)
-- Muhammad Umer Farooq (24K-0514)
-- Fawad Noukhaiz (24K-0750)
+- Bilal Ahmed Shariff 
+- Muhammad Umer Farooq 
+- Fawad Noukhaiz 
 
 ---
 
